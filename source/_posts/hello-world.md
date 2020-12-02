@@ -20,7 +20,7 @@ $ hexo server
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
-
+<!--More-->
 ### Generate static files
 
 ``` bash
