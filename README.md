@@ -1,5 +1,3 @@
-### [Portal](https://gojsblog.herokuapp.com/)
-
 ### About blog
 * 30% code
 * 40% tech
@@ -14,3 +12,5 @@
 
 ### Tech/framework used
 *The blog is powered by ***Hexo*** & ***nexT*** ❤️*
+
+### [Portal](https://gojsblog.herokuapp.com/)
